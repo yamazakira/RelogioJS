@@ -1,4 +1,4 @@
-# Relógio
+# RelógioJS
 
 Um relógio simples feito usando HTML, CSS e JavaScript.
 
