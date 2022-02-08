@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display:flex;
+    background-size: cover;
+    background-position: center center;
+    flex-direction: column;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-family: IBM Plex Mono, monospace;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 600;
+    margin-top: -7rem;
+}
+
+span {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.textoGrande {
+    font-size: 7rem;
+    font-weight: 600;
+    line-height: 1;
+    margin: 0 4rem;
+}
+.container {
+    display: flex;
+    text-align: center;
+}
